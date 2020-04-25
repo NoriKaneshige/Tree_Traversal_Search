@@ -1,6 +1,6 @@
 # Tree_Traversal_Search
 
-> ## Breath First Search (BFS) animation: :octocat:
+> ## 🤯 Breath First Search (BFS) animation: :octocat:
 ![breadth_first_search](breadth_first_search.gif)
 
 
