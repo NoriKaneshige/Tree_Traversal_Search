@@ -127,7 +127,7 @@ class BinarySearchTree {
 
                                    //       10
                                    //   6       15
-                                   // 3   8		20
+                                   // 3   8	      20
 ```
 > ## run code and results: :octocat:
 ``` js
